@@ -9,4 +9,6 @@ My writings are listed [here](./writings.md).
 
 Follow me on [twitter](https://twitter.com/KonstantinBaetz) for my short form "writing". Sometimes I write blog posts on my substack, [Infinite Regression](https://infiniteregression.substack.com/), as well.
 
-Direct any inquiries to konstantinbaetz `at` gmail `dot` com or just dm me on twitter.
+### Contact
+
+Direct any inquiries to konstantinbaetz `at` gmail `dot` com or just dm me on [twitter](https://twitter.com/KonstantinBaetz).
