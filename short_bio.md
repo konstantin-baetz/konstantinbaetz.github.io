@@ -6,7 +6,7 @@ Currently I am finishing up my PhD in International Politics at the University o
 
 I firmly belive that foreign policy research should not be confined to the ivory tower. Hence I take an interest in the trade-off between policy relevance and methodological rigour. In my view, much of the current research output is hard to read for policy makers and does not adress their immediate questions. My [own work](./writings.md) aims to reconcile solid methods and policy relevance.
 
-My professional home is the Uniersity of Konstanz, where I am working at the [Chair of International Politics](https://www.polver.uni-konstanz.de/gschneider/). I am also affiliated with the [Graduate School of Behavioral Sciences](https://gsbs.uni-konstanz.de/). Before my PhD, I attained a BA in Philosophy & Economic from the University of Bayreuth and a MSc in Political Economy from the Universiy of Konstanz.
+My professional home is the Uniersity of Konstanz, where I am working at the [Chair of International Politics](https://www.polver.uni-konstanz.de/gschneider/). I am also affiliated with the [Graduate School of Behavioral Sciences](https://gsbs.uni-konstanz.de/). Before my PhD, I attained a BA in Philosophy & Economics from the University of Bayreuth and a MSc in Political Economy from the Universiy of Konstanz.
 
 I have presented my research at the European Political Science Association and American Political Science Association conferences. 
 
