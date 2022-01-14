@@ -9,4 +9,4 @@ In my free time I enjoy playing chess, going for a bike ride, lifting weights in
 
 
 
-[back to homepage](./index.md)
+[back to homepage.](./index.md)
