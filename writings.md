@@ -8,13 +8,14 @@ You can download an inofficial Version of my dissertation [here](./DISSERTATION_
 
 ## Peer reviewed
 
-- **Challenging the status quo: Predicting violence with sparse decision-making data**, joint with Ann-Cathrin Glöckner and Gerald Schneider, 2nd Round R&R in International Interactions.
+- "*Challenging the status quo: Predicting violence with sparse decision-making data*", joint with Ann-Cathrin Glöckner and Gerald Schneider, 2nd Round R&R in International Interactions.
 
 ## Research projects
 
-- **Overshadowed liberalism: Economic coercion during interstate disputes**
-- **The right tool for the job? Trade leverage in the foreign policy tool box**
-- **The capacity to learn: Analyzing the predictors of sanction busting trade**
+- *Overshadowed liberalism: Economic coercion during interstate disputes*
+- *The right tool for the job? Trade leverage in the foreign policy tool box*
+- *The capacity to learn: Analyzing the predictors of sanction busting trade*
+
 
 ## Popular writings
 
