@@ -1,7 +1,7 @@
 ## Welcome to my website
 
 
-I am a political economist, interested in issued of economic statecraft, and passionate about policy relevant research. Below you can find links to my writings and other miscallenous things.
+I am a political economist, interested in issued of economic statecraft, and passionate about policy relevant research. Below you can find links to my writings and other miscellaneous things.
 
 You can use the [editor on GitHub](https://github.com/konstantin-baetz/konstantinbaetz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
