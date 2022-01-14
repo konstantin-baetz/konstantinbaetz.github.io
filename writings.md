@@ -6,9 +6,7 @@ You can download an inofficial Version of my dissertation [here](./DISSERTATION_
 
 ## Peer reviewed
 
-## Research Projects
-
-
+## Research projects
 
 ## Popular writings
 
