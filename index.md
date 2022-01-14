@@ -3,6 +3,8 @@
 
 I am a political economist, interested in issued of economic statecraft, and passionate about policy relevant research. Below you can find links to my writings and other miscellaneous things.
 
+You can find a short biography [here](./short_bio.md)
+
 You can use the [editor on GitHub](https://github.com/konstantin-baetz/konstantinbaetz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
