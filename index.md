@@ -5,7 +5,7 @@ I am a political economist, who is interested in issues of economic statecraft a
 
 You can find a short biography [here](./short_bio.md). A full cv is available on request, send an email to konstantinbaetz `at` gmail `dot` com.
 
-My writing are listed [here](./writings.md). 
+My writings are listed [here](./writings.md). 
 
 Follow me on [twitter](https://twitter.com/KonstantinBaetz) for my short form "writing". Sometimes I write blog posts on my substack, [Infinite Regression](https://infiniteregression.substack.com/), as well.
 
