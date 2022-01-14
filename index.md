@@ -7,6 +7,8 @@ You can find a short biography [here](./short_bio.md). A full cv is available on
 
 My writing are listed [here](./writings.md).
 
+Follow my on [twitter](https://twitter.com/KonstantinBaetz) for my short form "writing".
+
 You can use the [editor on GitHub](https://github.com/konstantin-baetz/konstantinbaetz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
