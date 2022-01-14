@@ -2,9 +2,13 @@
 
 ## Dissertation
 
-You can download an official Version of my dissertation [here](./DISSERTATION_revisions.pdf).
+You can download an inofficial Version of my dissertation [here](./DISSERTATION_revisions.pdf). The final version will be published some time in the spring 2022 (March / April).
 
 ## Peer reviewed
+
+## Research Projects
+
+
 
 ## Popular writings
 
