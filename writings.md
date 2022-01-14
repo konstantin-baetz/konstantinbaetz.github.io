@@ -2,7 +2,7 @@
 
 ## Dissertation
 
-You can download an official Version of my dissertation [here](./DISSERTATION_revisions).
+You can download an official Version of my dissertation [here](./DISSERTATION_revisions.pdf).
 
 ## Peer reviewed
 
