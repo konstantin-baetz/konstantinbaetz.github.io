@@ -4,7 +4,7 @@
 
 Currently I am finishing up my PhD in International Politics at the University of Konstanz. The topic of my dissertation is *Economic Statecraft in Multipolar Times*. As the title indicates, I am interested in the relationship between economics and foreign policy, specifically the use of economic means for foreign policy ends. This includes the study of trade wars and sanctions, which I analyze from the vantage of quantitative political science. 
 
-I firmly belive that foreign policy research should not be confined to the ivory tower. Hence I take an interest in the trade-off between policy relevance and methodological rigour. In my view, much of the current research output is hard to read for policy makers and does not adress their immediate questions. My [own work](./writings) aims to reconcile solid methods and policy relevance.
+I firmly belive that foreign policy research should not be confined to the ivory tower. Hence I take an interest in the trade-off between policy relevance and methodological rigour. In my view, much of the current research output is hard to read for policy makers and does not adress their immediate questions. My [own work](./writings.md) aims to reconcile solid methods and policy relevance.
 
 I have presented my work at the European Political Science Association and American Political Science Association conferences. 
 
