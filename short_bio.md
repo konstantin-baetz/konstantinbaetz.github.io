@@ -10,7 +10,7 @@ I have presented my work at the European Political Science Association and Ameri
 
 ### Other Interests
 
-In my free time I enjoy playing chess, going for a bike ride, lifting weights in the gym and reading Brandon Sanderson books. I also volunteer with the Amnesty International group in Konstanz.
+In my free time I enjoy playing chess, going for a bike ride, lifting weights in the gym and reading Brandon Sanderson books. I also volunteer with the [Amnesty International](https://twitter.com/AmnestyKonstanz) group in Konstanz.
 
 
 
