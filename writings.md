@@ -15,6 +15,7 @@ You can download an inofficial Version of my dissertation [here](./DISSERTATION_
 - *Overshadowed liberalism: Economic coercion during interstate disputes*
 - *The right tool for the job? Trade leverage in the foreign policy tool box*
 - *The capacity to learn: Analyzing the predictors of sanction busting trade*
+  This built on the PPI data available [here](https://github.com/konstantin-baetz/PPIdat).
 
 
 ## Popular writings
