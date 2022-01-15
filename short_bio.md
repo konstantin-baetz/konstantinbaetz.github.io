@@ -13,6 +13,8 @@ My professional home is the Uniersity of Konstanz, where I am working at the [Ch
 
 I have presented my research at the European Political Science Association and American Political Science Association conferences. 
 
+![image](./IMG_6717.jpg)
+
 ### Other Interests
 
 In my free time I enjoy playing chess, going for a bike ride, lifting weights in the gym and reading Brandon Sanderson books. I also volunteer with the [Amnesty International](https://twitter.com/AmnestyKonstanz) group in Konstanz.
