@@ -9,7 +9,7 @@ My writings are listed [here](./writings.md).
 
 ### Contact and links
 - konstantinbaetz `at` gmail `dot` com
-- [twitter](https://twitter.com/KonstantinBaetz)
-- [substack](https://infiniteregression.substack.com/)
-- [linkedin](https://www.linkedin.com/in/konstantin-baetz/)
+- [Twitter](https://twitter.com/KonstantinBaetz)
+- [Substack](https://infiniteregression.substack.com/)
+- [Linkedin](https://www.linkedin.com/in/konstantin-baetz/)
 - [Website at Uni Konstanz](https://www.polver.uni-konstanz.de/gschneider/people/phd-students/konstantin-baetz/)
