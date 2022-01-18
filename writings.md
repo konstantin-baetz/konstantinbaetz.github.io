@@ -22,4 +22,6 @@ You can download an preliminary version of my dissertation [here](./DISSERTATION
 
 ## Popular writings
 
+- *Wie die EU ihre Abwehrkräfte stärken will: falsche Antworten auf richtige Herausforderungen* Neue Zürcher Zeitung, 18.01.20222, auch [online](Das ACI bleibt ein Schritt in die richtige Richtung. Nun liegt der Ball beim Europäischen Parlament, und wir hoffen, dass am Ende des Gesetzgebungsprozess ein Instrument mit Zähnen steht, und dass die EU wehrhafter gegen geoökomische Erpressung wird.).
+
 [back to homepage.](./index.md)
