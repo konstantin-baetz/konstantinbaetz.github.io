@@ -22,6 +22,6 @@ You can download an preliminary version of my dissertation [here](./DISSERTATION
 
 ## Popular writings
 
-- *Wie die EU ihre Abwehrkräfte stärken will: falsche Antworten auf richtige Herausforderungen* Neue Zürcher Zeitung, 18.01.20222, auch [online](https://www.nzz.ch/meinung/wie-die-eu-ihre-abwehrkraefte-staerken-will-falsche-antworten-auf-richtige-herausforderungen-ld.1663484).
+- *Wie die EU ihre Abwehrkräfte stärken will: falsche Antworten auf richtige Herausforderungen* Neue Zürcher Zeitung, 18.01.2022, auch [online](https://www.nzz.ch/meinung/wie-die-eu-ihre-abwehrkraefte-staerken-will-falsche-antworten-auf-richtige-herausforderungen-ld.1663484).
 
 [back to homepage.](./index.md)
