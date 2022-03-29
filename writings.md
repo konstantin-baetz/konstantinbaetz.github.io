@@ -8,7 +8,8 @@ You can download an preliminary version of my dissertation [here](./DISSERTATION
 
 ## Peer reviewed
 
-- "*Challenging the status quo: Predicting violence with sparse decision-making data*", joint with Ann-Cathrin Glöckner and Gerald Schneider, 2nd Round R&R in International Interactions.
+- ["*Challenging the status quo: Predicting violence with sparse decision-making data*"](https://doi.org/10.1080/03050629.2022.2051024), joint with Ann-Cathrin Glöckner and Gerald Schneider, International Interactions.
+
 
 ## Research projects
 
