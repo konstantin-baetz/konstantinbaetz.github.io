@@ -1,6 +1,6 @@
 # Writings
 
-This page lists my popular and academic writings. In addition, I regularly publish pieces on [Freiheit|Macht|Politik](https://freiheitmachtpolitik.de), where I am Editor in Chief.
+This page lists my popular and academic writings. In addition, I regularly publish pieces on [Freiheit Macht Politik](https://freiheitmachtpolitik.de), where I am Editor in Chief.
 
 ## Dissertation
 
