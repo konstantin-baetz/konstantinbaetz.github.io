@@ -9,7 +9,7 @@ You can download an preliminary version of my dissertation [here](./DISSERTATION
 
 ## Popular writings
 
-- *„Es lebe der Handel“ – auch wenn er den Wandel nicht zwangsläufig hervorruft* Handelsblatt, 01.11.2022, also [online](https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-es-lebe-der-handel-auch-wenn-er-den-wandel-nicht-zwangslaeufig-hervorruft/28780204.html).
+- *„Es lebe der Handel“ – auch wenn er den Wandel nicht zwangsläufig hervorruft* Handelsblatt, 01.11.2022, also [online](https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-es-lebe-der-handel-auch-wenn-er-den-wandel-nicht-zwangslaeufig-hervorruft/28780204.html). [in German]
 
 - *Wie die EU ihre Abwehrkräfte stärken will: falsche Antworten auf richtige Herausforderungen* Neue Zürcher Zeitung, 18.01.2022, also [online](https://www.nzz.ch/meinung/wie-die-eu-ihre-abwehrkraefte-staerken-will-falsche-antworten-auf-richtige-herausforderungen-ld.1663484). [in German] [[some more background]](https://infiniteregression.substack.com/p/europaische-autonomie-in-der-handelspolitik?justPublished=true)
   
