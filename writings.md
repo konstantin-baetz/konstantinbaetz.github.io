@@ -9,11 +9,13 @@ This page lists my popular and academic writings. In addition, I regularly publi
 You can download an preliminary version of my dissertation [here](./DISSERTATION_revisions.pdf). The final version will be published some time in the spring 2023.
 
 
-## Popular writings
+## Popular writings and interviews
 
-- *„Es lebe der Handel“ – auch wenn er den Wandel nicht zwangsläufig hervorruft* Handelsblatt, 01.11.2022, also [online](https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-es-lebe-der-handel-auch-wenn-er-den-wandel-nicht-zwangslaeufig-hervorruft/28780204.html). [in German]
+- *Russland-Handel fehlte Strategie* [Interview](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-politikum-gespraech/audio-russland-handel-fehlte-strategie-100.html), WDR 5 Politikum, 16.11.2022.
 
-- *Wie die EU ihre Abwehrkräfte stärken will: falsche Antworten auf richtige Herausforderungen* Neue Zürcher Zeitung, 18.01.2022, also [online](https://www.nzz.ch/meinung/wie-die-eu-ihre-abwehrkraefte-staerken-will-falsche-antworten-auf-richtige-herausforderungen-ld.1663484). [in German] [[some more background]](https://infiniteregression.substack.com/p/europaische-autonomie-in-der-handelspolitik?justPublished=true)
+- *„Es lebe der Handel“ – auch wenn er den Wandel nicht zwangsläufig hervorruft* Handelsblatt, 01.11.2022, also [online](https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-es-lebe-der-handel-auch-wenn-er-den-wandel-nicht-zwangslaeufig-hervorruft/28780204.html).
+
+- *Wie die EU ihre Abwehrkräfte stärken will: falsche Antworten auf richtige Herausforderungen* Neue Zürcher Zeitung, 18.01.2022, also [online](https://www.nzz.ch/meinung/wie-die-eu-ihre-abwehrkraefte-staerken-will-falsche-antworten-auf-richtige-herausforderungen-ld.1663484). [[some more background]](https://infiniteregression.substack.com/p/europaische-autonomie-in-der-handelspolitik?justPublished=true)
   
 ## Peer reviewed
 
