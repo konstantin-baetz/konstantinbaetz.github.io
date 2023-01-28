@@ -1,15 +1,18 @@
 # Konstantin Bätz - Personal Website
 
 ### Welcome to my website
-I am a political economist, who is interested in issues of economic statecraft and passionate about policy relevant research. Below you can find links to my writings and other miscellaneous things.
+I am a political economist, who is interested in issues of economic statecraft and passionate about policy relevant research.
+
+Below you can find links to my writings and other miscellaneous things.
 
 You can find a short biography [here](./short_bio.md).
 
-My writings are listed [here](./writings.md). 
+My writings are listed [here](./writings.md). I regularly publish pieces on [Freiheit|Macht|Politik](https://freiheitmachtpolitik.de), where I am Editor in Chief.
 
 ### Contact and links
 - konstantinbaetz `at` gmail `dot` com
 - [Twitter](https://twitter.com/KonstantinBaetz)
+- [Freiheit|Macht|Politik](https://freiheitmachtpolitik.de)
 - [Substack](https://infiniteregression.substack.com/)
 - [Linkedin](https://www.linkedin.com/in/konstantin-baetz/)
 - [Website at Uni Konstanz](https://www.polver.uni-konstanz.de/gschneider/people/phd-students/konstantin-baetz/)
