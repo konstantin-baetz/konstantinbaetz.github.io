@@ -7,12 +7,11 @@ Below you can find links to my writings and other miscellaneous things.
 
 You can find a short biography [here](./short_bio.md).
 
-My writings are listed [here](./writings.md). I regularly publish pieces on [Freiheit|Macht|Politik](https://freiheitmachtpolitik.de), where I am Editor in Chief.
+My writings are listed [here](./writings.md). I regularly publish pieces on [FreiheitMachtPolitik](https://freiheitmachtpolitik.de), where I am Editor in Chief.
 
 ### Contact and links
 - konstantinbaetz `at` gmail `dot` com
-- [Twitter](https://twitter.com/KonstantinBaetz)
-- [Freiheit|Macht|Politik](https://freiheitmachtpolitik.de)
-- [Substack](https://infiniteregression.substack.com/)
+- My personal [Twitter](https://twitter.com/KonstantinBaetz) account.
+- [FreiheitMachtPolitik](https://freiheitmachtpolitik.de), pluralistic magazine for political analysis and strategy.
+- [Substack](https://infiniteregression.substack.com/), on hiatus.
 - [Linkedin](https://www.linkedin.com/in/konstantin-baetz/)
-- [Website at Uni Konstanz](https://www.polver.uni-konstanz.de/gschneider/people/phd-students/konstantin-baetz/)
