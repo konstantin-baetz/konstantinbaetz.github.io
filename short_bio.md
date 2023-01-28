@@ -6,9 +6,11 @@ A full cv is available on request, send an email to konstantinbaetz `at` gmail `
 
 I left academia in part because I felt my impact on policy was limited. I have thus adjusted my career path and I am currently working in strategic political consulting at [Miller & Meier Consulting](https://www.miller-meier.de/) (please note disclaimer below).
 
+In November 2022, I launched [FMP](https://www.freiheitmachtpolitik.de), a pluralistic magazine for political analysis and strategy, with two colleagues. 
+
 I am still passionate about political science, especially the study of foreign policy and its interactions with economics. I write about this and other things on [my blog](infiniteregression.substack.com).
 
-I am also a member of the German Council on Foreign Relations (DGAP).
+I am also a member of the German Council on Foreign Relations (DGAP) and of the German Association of Political Consultants, de'ge'pol.
 
 ### Academic background
 
@@ -24,7 +26,7 @@ I have presented my research at the European Political Science Association and A
 
 ### Other Interests
 
-In my free time I enjoy playing chess, going for a bike ride, lifting weights in the gym and reading Brandon Sanderson books. I also volunteer with the [Amnesty International](https://twitter.com/AmnestyKonstanz) group in Konstanz.
+In my free time I enjoy playing chess, going for a bike ride, lifting weights in the gym and reading Brandon Sanderson books.
 
 ## Disclaimer
 
