@@ -1,15 +1,21 @@
 # Writings
 
-This page lists my popular and academic writings. In addition, I regularly publish pieces on [Freiheit Macht Politik](https://freiheitmachtpolitik.de), where I am Editor in Chief.
+This page lists my popular and academic writings. In addition, I regularly publish essays, book reviews, and podcasts on [Freiheit Macht Politik](https://freiheitmachtpolitik.de), where I am Editor in Chief.
 
 ## Dissertation
 
-**Economic Statecraft in Multipolar Times**
+**Economic Statecraft in Multipolar Times**, University of Konstanz Press, 2022
 
-You can download an preliminary version of my dissertation [here](./DISSERTATION_revisions.pdf). The final version will be published some time in the spring 2023.
+You can download the current version of my dissertation [here](./DISSERTATION_revisions.pdf).
 
 
-## Popular writings and interviews
+## Popular writings and interviews (in German)
+
+- *Karrieren statt Inhalte* [Book Review](https://www.freiheitmachtpolitik.de/buecher/karrieren-statt-inhalte-rory-stewart/), Freiheit Macht Politik, 06.05.2024.
+
+- *Energie! Warum Sparzwang und Schrumpfkurs falsch sind.* [online](https://www.freiheitmachtpolitik.de/essays/degrowth-vs-energieueberfluss/), Freiheit Macht Politik, 05.06.2023.
+
+- *Timothy Snyder – Vom Historiker zum Public Intellectual* [Profile](https://www.freiheitmachtpolitik.de/koepfe/timothy-snyder-vom-historiker-zum-public-intellectual/), Freiheit Macht Politik, 28.11.2022.
 
 - *Russland-Handel fehlte Strategie* [Interview](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-politikum-gespraech/audio-russland-handel-fehlte-strategie-100.html), WDR 5 Politikum, 16.11.2022.
 
