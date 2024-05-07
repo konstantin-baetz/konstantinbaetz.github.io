@@ -4,7 +4,7 @@ A full cv is available on request, send an email to konstantinbaetz `at` gmail `
 
 ### Professional Profile
 
-I left academia in part because I felt my impact on policy was limited. I have thus adjusted my career path and I am currently working in strategic political consulting at [Miller & Meier Consulting](https://www.miller-meier.de/) (please note disclaimer below).
+I left academia in part because I felt my impact on policy was limited. I have thus adjusted my career path and I am currently serving as Chief of Staff to the CEO at [Miller & Meier Consulting](https://www.miller-meier.de/), a Public Affairs Consultancy (please note disclaimer below).
 
 In November 2022, I launched [FMP](https://www.freiheitmachtpolitik.de), a pluralistic magazine for political analysis and strategy, with two colleagues. 
 
@@ -22,11 +22,11 @@ Before leaving academia, my home was the University of Konstanz, where I was wor
 
 I have presented my research at the European Political Science Association and American Political Science Association conferences. 
 
-![image](./IMG_6717.jpg)
+![image](./EY040.jpg)
 
 ### Other Interests
 
-In my free time I enjoy playing chess, going for a bike ride, lifting weights in the gym and reading Brandon Sanderson books.
+In my free time I enjoy playing chess, going for a bike ride, lifting weights in the gym, and reading Brandon Sanderson books.
 
 ## Disclaimer
 
